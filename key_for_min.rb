@@ -13,3 +13,9 @@ name_hash.each do |key, value|
 end
 min_key
 end
+
+def using_and
+  if this_is_true
+    name = using_and
+    if this_is_also_true
+      
